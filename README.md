@@ -1,4 +1,5 @@
 #Horiseon web page code refactor
+
 project 01, code refactor
 
 Project Description: This project was to refactor the code for Heriseon's web page, this will make the site more accessible for its users, allow it to be used by people who may have disability's, it will be optimized for search engines allowing maximum online traffic.
